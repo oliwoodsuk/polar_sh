@@ -1,5 +1,8 @@
-## [Unreleased]
+## 0.2.0
 
-## [0.1.0] - 2024-12-20
+- Add `Polar::Webhook`
+- Add more resources
+
+## 0.1.0
 
 - Initial release
